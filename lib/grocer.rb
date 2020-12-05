@@ -24,6 +24,7 @@ cart.each do |grocery_item|
       new_cart_item[:count] += 0 
     end
     new_cart_index =+ 1 
-    
+  end
+  new_cart
       
     
