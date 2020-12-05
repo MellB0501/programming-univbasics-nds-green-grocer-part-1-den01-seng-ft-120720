@@ -27,5 +27,4 @@ cart.each do |grocery_item|
   end
   new_cart
 end
-end     
     
