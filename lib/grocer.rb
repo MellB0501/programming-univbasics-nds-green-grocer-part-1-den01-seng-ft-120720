@@ -23,6 +23,6 @@ cart.each do |grocery_item|
       if new_cart[:item] === current_item[:item]
       new_cart_item[:count] += 0 
     end
-    
+    new_cart_item 
       
     
