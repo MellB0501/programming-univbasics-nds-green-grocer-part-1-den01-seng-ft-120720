@@ -23,7 +23,7 @@ cart.each do |grocery_item|
       new_cart_item[:count] += 0 
     end
   else
-    
+    grocery_item[:count] = 0 
     new_cart_index =+ 1 
   end
   new_cart
