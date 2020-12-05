@@ -21,6 +21,8 @@ cart.each do |grocery_item|
     new_cart_index = 0 
     new_cart.each do |new_cart_item|
       if new_cart[:item] === current_item[:item]
-      new_cart_item[:item] += 0 
+      new_cart_item[:count] += 0 
+    end
+    
       
     
