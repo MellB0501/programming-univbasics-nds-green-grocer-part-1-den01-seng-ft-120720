@@ -20,4 +20,4 @@ cart.each do |grocery_item|
   if(current_item)
     new_cart_index = 0 
     new_cart.each do |new_cart_item|
-    if 
+    if new_cart_item
